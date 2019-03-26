@@ -57,7 +57,7 @@ export default class Nav extends React.Component<Props, {}> {
           }
         `}</style>
         <div className="element">
-          <span>GraphQL</span>
+          <span>Student Resources</span>
           <span className="triangle">▾</span>
           <Dropdown>
             <div className="graphql">
@@ -75,7 +75,7 @@ export default class Nav extends React.Component<Props, {}> {
           </Dropdown>
         </div>
         <div className="element">
-          <span>Frontend</span>
+          <span>Instructor Resources</span>
           <span className="triangle">▾</span>
           <Dropdown>
             <Stack
@@ -88,7 +88,7 @@ export default class Nav extends React.Component<Props, {}> {
         </div>
 
         <div className="element">
-          <span>Backend</span>
+          <span>Login</span>
           <span className="triangle">▾</span>
           <Dropdown>
             <Stack

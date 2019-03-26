@@ -27,7 +27,7 @@ export default function Logo() {
       <Link to="/">
         <div className="logo">
           <img src={require('../assets/icons/howtographql.svg')} alt="" />
-          <span>How to GraphQL</span>
+          <span>CORE Academy</span>
         </div>
       </Link>
     </div>

@@ -108,7 +108,7 @@ export default class SearchInput extends React.Component<Props, {}> {
           <input
             type="text"
             name="search"
-            placeholder="Search tutorials..."
+            placeholder="Search our content..."
             value={query}
             onChange={this.handleChange}
             onFocus={onFocus}

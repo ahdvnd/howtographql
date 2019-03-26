@@ -68,7 +68,7 @@ class OverviewVideoModal extends React.Component<Props, State> {
         <div className="video-wrap">
           <div className="video">
             <YoutubeEmbedVideo
-              videoId="gdoRAPW7Abc"
+              videoId="jQZrXnWx4L8"
               suggestions={false}
               autoplay={visible}
               controls={true}

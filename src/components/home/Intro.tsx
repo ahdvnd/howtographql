@@ -123,10 +123,9 @@ class Intro extends React.Component<Props, null> {
           }
         `}</style>
         <div className="rest">
-          <h1>The Fullstack Tutorial for GraphQL</h1>
+          <h1>CORE Academy</h1>
           <p>
-            The free and open-source tutorial to learn all around GraphQL to go from
-            zero to production.
+            An open-access platform for anyone who wants to understand the economics of innovation, inequality, environmental sustainability, and more...
           </p>
           <div className="center-container">
             <div
@@ -135,13 +134,13 @@ class Intro extends React.Component<Props, null> {
             >
               <Icon src={require('../../assets/icons/play.svg')} color={'black'} width={37} height={37} />
               <span>
-                Watch Overview
+                Learn about the CORE Economics Project
               </span>
             </div>
           </div>
           <div className="center-container btn-container">
             <Link to="/basics/0-introduction/">
-              <div className="btn">Start with Introduction</div>
+              <div className="btn">Take the survey!</div>
             </Link>
           </div>
           <IntroSteps steps={this.props.steps} location={this.props.location}/>
