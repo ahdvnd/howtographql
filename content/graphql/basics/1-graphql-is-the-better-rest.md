@@ -1,5 +1,5 @@
 ---
-title: "GraphQL is the better REST"
+title: Technology, population, and growth
 pageTitle: "GraphQL vs REST - A comparison"
 description: "Learn why GraphQL is a more efficient and flexible alternative to REST APIs. It has a strong type system and avoids frontend issues like over- and underfetching."
 question: What is a benefit of the GraphQL schema and strong type system?

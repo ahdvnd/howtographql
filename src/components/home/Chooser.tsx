@@ -28,7 +28,7 @@ interface State {
 }
 
 export const FRONTEND_TUTORIALS_COUNT = data.filter(tutorial => tutorial.type === 'frontend').length-1
-const CATEGORIES = ['Frontend', 'Backend']
+const CATEGORIES = ['Economics', 'Macroeconomics']
 const FRONTEND_INDEX = 0
 const BACKEND_INDEX = 1
 
@@ -280,14 +280,14 @@ export default class Chooser extends React.Component<Props, State> {
         `}</style>
         <div className="steps-content">
           <LeftColumn>
-            <h3 className="first-h3">Hands-on tutorials</h3>
+            <h3 className="first-h3">Interactive Courses</h3>
           </LeftColumn>
           <div className="steps-list steps-list-top">
             <DottedListItem first={true} path={'/tutorials/choose'}>
               <div className="list-item">
                 <Link to={'/choose/'}>
                   <span>
-                    Choose your favorite technology
+                    Choose other courses by CORE Academy
                   </span>
                 </Link>
               </div>

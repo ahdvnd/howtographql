@@ -1,5 +1,5 @@
 ---
-title: Big Picture (Architecture)
+title: Social interactions
 pageTitle: "GraphQL Architecture & Big Picture"
 description: "Learn about different architectural use cases of GraphQL and the major components on the backend and the frontend, like resolver functions and client libraries."
 question: What is a resolver function?

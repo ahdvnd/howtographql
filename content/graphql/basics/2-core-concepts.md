@@ -1,5 +1,5 @@
 ---
-title: Core Concepts
+title: Scarcity, work, and choice
 pageTitle: GraphQL Core Concepts Tutorial
 description: "Learn about the basic GraphQL language concepts, such as Queries, Mutations, Subscriptions and the GraphQL Schema & SDL. Try them out in your own sandbox."
 question: "What are GraphQL subscriptions used for?"
