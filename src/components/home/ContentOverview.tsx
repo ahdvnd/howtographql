@@ -70,13 +70,13 @@ export default function ContentOverview({ location, steps }: Props) {
           <div className="overview">
             <div className="block left">
               <Stack
-                name="GraphQL Fundamentals"
+                name="The Economy"
                 steps={steps.basics}
                 location={location}
               />
               <div className="advanced">
                 <Stack
-                  name="Advanced GraphQL"
+                  name="The Economy: Advanced Topics"
                   steps={steps.advanced}
                   location={location}
                 />
@@ -84,7 +84,7 @@ export default function ContentOverview({ location, steps }: Props) {
             </div>
             <div className="block right">
               <Stack
-                name="React + Apollo"
+                name="International Trade"
                 steps={steps['react-apollo']}
                 location={location}
               />
