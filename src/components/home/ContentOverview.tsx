@@ -89,12 +89,12 @@ export default function ContentOverview({ location, steps }: Props) {
                 location={location}
               />
               <Stack
-                name="React + Relay"
+                name="Economic Development"
                 steps={steps['react-relay']}
                 location={location}
               />
               <Stack
-                name="NodeJS"
+                name="Economic History"
                 steps={steps['graphql-js']}
                 location={location}
               />

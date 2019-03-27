@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: Chapter 1
 pageTitle: "Fullstack Tutorial with GraphQL, React & Apollo"
 description: "Learn how to build a Hackernews clone with GraphQL, React & Apollo Client. Use create-react-app for the frontend and graphql-yoga & Prisma for the backend."
 question: What's a major benefit of using a GraphQL client library?

@@ -1,5 +1,5 @@
 ---
-title: Realtime GraphQL Subscriptions
+title: Chapter 8
 pageTitle: "Realtime GraphQL Subscriptions with Node.JS Tutorial"
 description: "Learn how to implement GraphQL subscriptions with Node.js, Express & Prisma to add realtime functionality to an app."
 question: Which of the following statements is true?

@@ -59,20 +59,20 @@ export default function IntroSteps({ steps, location }: Props) {
       <div className="steps-content">
         <LeftColumn className="steps-description" light={true}>
           <div className="basic-graphql">
-            <h3>GraphQL Fundamentals</h3>
+            <h3>Economics: A Short Course</h3>
             <div className="duration">
               <Duration duration={basicsDuration} total={true} />
             </div>
             <p>
-              In the first chapter, you’ll learn about
-              the core concepts of GraphQL. {' '}
+              In the first course, you will learn about
+              the economy. {' '}
             </p>
           </div>
           <div className="advanced-graphql">
-            <h3>Advanced GraphQL (optional)</h3>
+            <h3>Economics: Advanced (optional)</h3>
             <p>
-              Read this chapter to get a broader
-              understanding of the GraphQL ecosystem.
+              In this course, you will learn more about
+              the economy.
             </p>
           </div>
         </LeftColumn>

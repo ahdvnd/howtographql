@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: Chapter 1
 pageTitle: "Building a GraphQL Server with Node.js & Prisma Tutorial"
 description: "Learn how to build a GraphQL server with graphql-yoga, Node.js & Prisma and best practices for authentication, filtering, pagination and subscriptions."
 question: What is a GraphQL Playground?

@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: Chapter 1
 pageTitle: "Fullstack Tutorial with GraphQL, React & Relay"
 description: Learn how to build a production-ready Hackernews clone with GraphQL, React & Relay. You'll use create-react-app for the frontend and Graphcool for the backend.
 question: What's a major benefit of using a GraphQL client library?

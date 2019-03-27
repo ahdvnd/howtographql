@@ -1,5 +1,5 @@
 ---
-title: Authentication
+title: Chapter 6
 pageTitle: "Authentication with GraphQL, React & Relay Tutorial"
 description: "Learn best practices to implement authentication with GraphQL & Relay to provide an email-and-password-based login in a React app with Graphcool."
 videoId: f0Mf2YyGdqc

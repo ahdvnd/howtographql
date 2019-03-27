@@ -1,5 +1,5 @@
 ---
-title: Getting Started
+title: Chapter 2
 pageTitle: "Getting Started with GraphQL, Node.js and Prisma Tutorial"
 description: "Learn how to setup a GraphQL server with Node.js & Express as well as best practices for defining the GraphQL schema."
 question: "What role do the root fields play for a GraphQL API?"

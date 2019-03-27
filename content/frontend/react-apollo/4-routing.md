@@ -1,5 +1,5 @@
 ---
-title: Routing
+title: Chapter 5
 pageTitle: "React Router with GraphQL & Apollo Tutorial"
 description: "Learn how to use react-router 4 together with GraphQL and Apollo Client to implement navigation in a React app. Each route will be represented as a `Link`."
 question: What's the role of the Link component that you added in this chapter?

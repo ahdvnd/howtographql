@@ -1,5 +1,5 @@
 ---
-title: A Simple Query
+title: Chapter 3
 pageTitle: "Resolving Queries with a GraphQL Server Tutorial"
 description: "Learn how to define a GraphQL schema, implement query resolvers with Node.js and test your queries in a GraphQL Playground."
 question: How are GraphQL queries resolved?

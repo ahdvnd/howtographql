@@ -1,5 +1,5 @@
 ---
-title: Routing
+title: Chapter 5
 pageTitle: "React Router with GraphQL & Relay Tutorial"
 descriptions: "Learn how to use react-router 4 together with GraphQL and Relay Modern to implement navigation in a React app. Each route will be represented as a `Link`."
 videoId: xmaDSTXeN54

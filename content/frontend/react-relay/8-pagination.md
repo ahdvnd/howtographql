@@ -1,5 +1,5 @@
 ---
-title: Pagination
+title: Chapter 9
 pageTitle: "Pagination with GraphQL, React & Relay Tutorial"
 description: "Learn how to implement cursor-based pagination with GraphQL and Relay Modern using `PaginationContainer`. Relay uses the concept of connections to represent lists."
 question: "What's the name of the GraphQL type that needs to wrap the items of a list according to the Relay Connection specification"

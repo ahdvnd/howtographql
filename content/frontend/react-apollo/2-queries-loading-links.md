@@ -1,5 +1,5 @@
 ---
-title: "Queries: Loading Links"
+title: Chapter 3
 pageTitle: "Fetching Data using GraphQL Queries with React & Apollo Tutorial"
 description: "Learn how you can use GraphQL queries with Apollo Client to load data from a server and display it in your React components."
 question: What's the declarative way for loading data with React & Apollo?

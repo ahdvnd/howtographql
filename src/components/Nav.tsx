@@ -79,7 +79,7 @@ export default class Nav extends React.Component<Props, {}> {
           <span className="triangle">▾</span>
           <Dropdown>
             <Stack
-              name="All Frontend Tutorials"
+              name="All Lower-level Courses"
               steps={frontendTutorials}
               location={location}
               showLines={false}

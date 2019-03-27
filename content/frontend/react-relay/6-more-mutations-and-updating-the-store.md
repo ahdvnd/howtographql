@@ -1,5 +1,5 @@
 ---
-title: More Mutations and Updating the Store
+title: Chapter 7
 pageTitle: "Mutations & Caching with GraphQL, React & Relay Tutorial"
 description: "Learn how to use Relay Modern's imperative API to update the cache after a GraphQL mutation. The updates will automatically end up in your React components."
 videoId: yfercdQVFFk

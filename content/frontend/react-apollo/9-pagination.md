@@ -1,5 +1,5 @@
 ---
-title: Pagination
+title: Chapter 10
 pageTitle: "Pagination with GraphQL, React & Apollo Tutorial"
 description: "Learn how to implement limit-offset pagination with GraphQL and Apollo Client in a React app. The Prisma API exposes the required arguments for lists."
 question: "What's the difference between the 'query' and 'readQuery' methods on the 'ApolloClient'?"

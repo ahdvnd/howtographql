@@ -1,5 +1,5 @@
 ---
-title: Summary
+title: Chapter 10
 pageTitle: "Fullstack GraphQL, React & Relay Tutorial with create-react-app"
 description: "In this Fullstack GraphQL Tutorial with React & Relay Modern you learned how to build a production-ready Hackernews clone using create-react-app & Graphcool."
 question: Did you find this tutorial useful?

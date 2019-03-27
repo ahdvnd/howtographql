@@ -185,7 +185,7 @@ class StackChooser extends React.Component<Props, {}> {
                 {tutorial.comingSoon &&
                   <div className="coming-soon">Coming Soon</div>}
                 {tutorial.beginnersChoice &&
-                  <div className="beginners-choice">Beginners's Choice</div>}
+                  <div className="beginners-choice">Popular Courses</div>}
               </div>,
             )}
           </SwipeableViews>

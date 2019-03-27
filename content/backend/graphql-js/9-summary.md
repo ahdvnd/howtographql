@@ -1,5 +1,5 @@
 ---
-title: Summary
+title: Chapter 10
 pageTitle: "Building a GraphQL Server with Javascript & Node.js Tutorial"
 description: "You learned how to build a GraphQL server with Node.js and best practices for filters, authentication, pagination and subscriptions."
 question: Did you find this tutorial useful?

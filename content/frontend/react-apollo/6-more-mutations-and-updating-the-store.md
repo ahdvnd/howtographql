@@ -1,5 +1,5 @@
 ---
-title: More Mutations and Updating the Store
+title: Chapter 7
 pageTitle: "Mutations & Caching with GraphQL, React & Apollo Tutorial"
 description: "Learn how to use Apollo's imperative store API to update the cache after a GraphQL mutation. The updates will automatically end up in your React components."
 question: "What does the 'update' prop of Apollo's <Mutation /> component do?"

@@ -64,28 +64,28 @@ export default function WhatWeBuild() {
             }
           }
         `}</style>
-        <h2>What you'll build: A Hackernews clone</h2>
+        <h2>You are an instructor and would like to adopt CORE Academy resources?</h2>
         <p className="c">
-          Start from scratch and build a fully-featured Hackernews clone with one of the 
-          detailed step-by-step tutorials. Use the programming language and framework of your choice!
+          CORE Academy provides great digital resources for instructors. To access instructors
+          resources, please contact us!
         </p>
         <div className="preview">
           <img
-            src={require('../../assets/graphics/hackernews-preview.png')}
+            src={require('../../assets/graphics/universities.png')}
             alt=""
           />
           <div className="points">
             <div className="point">
               <Checkmark />
-              <p>Learn about best practices</p>
+              <p>Learn about the books</p>
             </div>
             <div className="point">
               <Checkmark />
-              <p>Detailed instructions &amp; explanations</p>
+              <p>Learn about digital resources</p>
             </div>
             <div className="point">
               <Checkmark />
-              <p>From scratch to production</p>
+              <p>Learn how you can contribute</p>
             </div>
           </div>
         </div>

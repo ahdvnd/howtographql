@@ -1,5 +1,5 @@
 ---
-title: Getting Started
+title: Chapter 2
 pageTitle: "Getting Started with GraphQL, React & Relay Tutorial"
 description: Start building a Hackernews clone. Create the frontend with create-react-app and the backend with Graphcool.
 question: Which are the two types that you find in every Graphcool project file?

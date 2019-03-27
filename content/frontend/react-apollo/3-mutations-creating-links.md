@@ -1,5 +1,5 @@
 ---
-title: "Mutations: Creating Links"
+title: Chapter 4
 pageTitle: "GraphQL Mutations with React & Apollo Tutorial"
 description: "Learn how you can use GraphQL mutations with Apollo Client. Use Apollo's `<Mutation />` component to define and send mutations."
 question: Which of the following statements is true?

@@ -1,5 +1,5 @@
 ---
-title: Summary
+title: Chapter 11
 pageTitle: "Fullstack GraphQL, React & Apollo Tutorial with create-react-app"
 description: "In this Fullstack GraphQL Tutorial with React & Apollo Client you learned how to build a production-ready Hackernews clone using create-react-app & Prisma."
 question: Did you find this tutorial useful?

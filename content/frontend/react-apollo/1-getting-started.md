@@ -1,5 +1,5 @@
 ---
-title: Getting Started
+title: Chapter 2
 pageTitle: "Getting Started with GraphQL, React & Apollo Tutorial"
 description: Start building a Hackernews clone. Create the frontend with create-react-app and the backend with Prisma.
 question: Why are there two GraphQL API layers in a backend architecture with Prisma?

@@ -1,5 +1,5 @@
 ---
-title: Authentication
+title: Chapter 6
 pageTitle: "Authentication with GraphQL, React & Apollo Tutorial"
 description: "Learn best practices to implement authentication with GraphQL & Apollo Client to provide an email-and-password-based login in a React app with Prisma."
 question: "How are HTTP requests sent by ApolloClient authenticated?"

@@ -1,5 +1,5 @@
 ---
-title: "Filtering: Searching the List of Links"
+title: Chapter 8
 pageTitle: "Filtering with GraphQL, React & Apollo Tutorial"
 description: "Learn how to use filters with GraphQL and Apollo Client. Prisma provides a powerful filter and ordering API that you'll explore in this example."
 question: "What's the purpose of the 'withApollo' function?"
